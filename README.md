@@ -19,4 +19,4 @@ This repository contains a MATLAB script to analyze SR20 flight data including p
 
 ## License
 
-MIT License
+Apache 2.0
